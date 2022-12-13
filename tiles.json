@@ -10,14 +10,14 @@
   "minzoom": 0,
   "maxzoom": 14,
   "bounds": [
-    20.01357,
-    41.854079,
-    21.79327,
-    43.277534
+    135.4393,
+    34.26649,
+    139.909,
+    38.90717
   ],
   "center": [
-    20.90342,
-    42.565807,
+    137.67415,
+    36.58683,
     7
   ],
   "vector_layers": [
@@ -25,9 +25,7 @@
       "id": "place",
       "fields": {
         "class": "String",
-        "iso_a2": "String",
-        "name:latin": "String",
-        "rank": "Number"
+        "name:latin": "String"
       },
       "minzoom": 0,
       "maxzoom": 14
